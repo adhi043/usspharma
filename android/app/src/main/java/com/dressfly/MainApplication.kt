@@ -1,4 +1,4 @@
-package com.dressfly
+package com.usspharma
 
 import android.app.Application
 import com.facebook.react.PackageList
